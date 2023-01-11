@@ -2,7 +2,8 @@
 
 <h3 align="center">A Computer Engineering student at the University of Waterloo</h3>
 <p align="center">
-<img align="middle" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"></center>
+<img src="https://user-images.githubusercontent.com/65996001/211940188-aec112d8-c1b9-4a34-9503-138c458171d0.gif" width="400">
+"></center>
 </p>
 
 - 📫 How to reach me: 
