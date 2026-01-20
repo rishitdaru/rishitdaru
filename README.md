@@ -7,6 +7,6 @@
 </p>
 
 - 📫 How to reach me: 
-    - Email: **rdaru@uwaterloo.ca** 
+    - Email: **rishitnewyork@gmail.com** 
     - LinkedIn: https://www.linkedin.com/in/rishitdaru/
 
